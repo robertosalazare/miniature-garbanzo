@@ -1,0 +1,12 @@
+body {
+  background-color: #ccc;
+
+  font-family: sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
